@@ -1,0 +1,5 @@
+Pillow
+numpy==1.17.2
+matplotlib==3.3.3
+opencv-python-headless==4.4.0.44
+voila==0.1.23
